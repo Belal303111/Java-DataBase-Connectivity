@@ -3,7 +3,7 @@ import java.sql.DriverManager;
 import java.sql.Connection;
 public class Main {
     public static void main(String[] args)throws Exception {
-        System.out.printf("Hello \n welcome in our DataBase with java");
+        System.out.printf("Hello \n welcome in our DataBase with java"); 
     String url="jdbc:postgresql://localhost:5432/MyDataBase";
     String username="postgres";
     String password="1234";
