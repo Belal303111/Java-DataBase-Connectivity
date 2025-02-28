@@ -4,7 +4,7 @@ import java.util.Scanner;
 import javax.swing.*;
 
 public class WordNo {
-    public static void main(String args[]){
+    public static void main(String args[]){ 
         JFrame f=new JFrame("text");
 
         Scanner s=new Scanner(System.in);
