@@ -62,7 +62,3 @@ public class Main {
         });
         }
     }
-    //the idea of todo list
-    //need input to take the fname , lname from the user and give it its data
-  //ex: USER: enterd fname=f,lname=l
-//code:select user from table where fname=f and lname=l;
